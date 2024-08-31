@@ -1,0 +1,4 @@
+/* ALIAS: Samostiina */
+SELECT N, NAEM_BLUD, KIL_REAL_B, VUTRATU_NA
+FROM "Bluda.DBF" Bluda
+WHERE  KIL_REAL_B > 9 
